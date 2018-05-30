@@ -1,0 +1,26 @@
+body{
+	background-image: url(country-quilt.png);
+	padding-top: 40px;
+}
+.contain{
+	width: 35%;
+	margin: auto;
+}
+.topMargin{
+	margin-top: 160px;
+}
+.checkBox{
+	border: 3px solid black;
+	border-radius: 10px;
+	height: 160px;
+	padding-top: 50px;
+}
+.xAndo{
+	text-align: center;
+	font-size: 50px;
+}
+
+.checkBox:hover{
+	background: black;
+	color: white;
+}
